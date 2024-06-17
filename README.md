@@ -1,5 +1,11 @@
 # Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation
 
+TODO:
+- StyleSpeech on speech data
+- MM-TTS implementation(integrate AMPE module to StyleSpeech)
+- MM-TTS on MEAD data
+- MM-TTS on MUSTARD Plus Plus
+
 **Recent Updates**
 --------
 [12/18/2021]
