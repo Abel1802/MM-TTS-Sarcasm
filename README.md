@@ -1,9 +1,14 @@
 # MM-TTS Implementation
 
-This repositoriy is based on 【StyleSpeech](https://github.com/KevinMIN95/StyleSpeech).
+This repositoriy is based on [StyleSpeech](https://github.com/KevinMIN95/StyleSpeech).
 
 TODO:
-- StyleSpeech on speech data
+- Train StyleSpeech on LibriTTS dataset
+    - LiZhu
 - MM-TTS implementation(integrate AMPE module to StyleSpeech)
-- MM-TTS on MEAD data
-- MM-TTS on MUSTARD Plus Plus
+    - AMPE module
+    - loss function
+    - integration
+    - dataset (for three modalities)
+- Train MM-TTS on MEAD dataset
+- Fine-tune MM-TTS on MUSTARD Plus Plus
