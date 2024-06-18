@@ -1,6 +1,6 @@
 # MM-TTS Implementation
 
-This repositoriy is based on [StyleSpeech](https://github.com/KevinMIN95/StyleSpeech).
+This repository is based on [StyleSpeech](https://github.com/KevinMIN95/StyleSpeech).
 
 TODO:
 - Train StyleSpeech on LibriTTS dataset
